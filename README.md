@@ -36,7 +36,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Prasanna38430/Taskflow_Todo_App
 cd taskflow-todo-app
 ```
 
@@ -109,13 +109,7 @@ ME_CONFIG_BASICAUTH_PASSWORD=admin123
 
 Contributions are welcome! Feel free to fork the repository and create pull requests.
 
----
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 Happy tasking with **TaskFlow**! 🎉
 
